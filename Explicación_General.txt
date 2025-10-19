@@ -3,6 +3,8 @@
 
 Dejo en este repositorio de GitHub todos los códigos tanto de Python, como de SQL para llevar a cabo un Reporte general
 de una base de datos de tienda E-Commerce disponible en Kaggle.
+También dejo disponible el archivo Excel para descargar, necesario si deseas interactuar con la tabla dinámica
+y los botones de la primera página. (Cuando abras el archivo, click en "view raw")
 Enlace de la base de datos de Kaggle: https://www.kaggle.com/datasets/benroshan/ecommerce-data?select=Sales+target.csv
 
 Gracias por tomarte el tiempo de revisar estos códigos hechos por mí.
